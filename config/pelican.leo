@@ -15,6 +15,7 @@
 </v>
 <v t="yen.20170108171733.1" a="E"><vh>@path ../</vh>
 <v t="leo.20180115150519.1"><vh>@edit index.html</vh></v>
+<v t="leo.20181027194758.1"><vh>@path Y:/tmp/site/config/新增資料夾</vh></v>
 <v t="yen.20170108171733.3"><vh>@edit README.md</vh></v>
 <v t="yen.20170108171733.4"><vh>@edit .gitignore</vh></v>
 <v t="leo.20170908162839.1" a="E"><vh>沒有 disqus 論壇</vh>
@@ -103,6 +104,7 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180115142025.1"></t>
 <t tx="leo.20180423103639.1"></t>
+<t tx="leo.20181027194758.1"></t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
