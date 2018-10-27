@@ -357,17 +357,17 @@ make.start()
 
 ## 基本特徵
 
- *[extrude](https://youtu.be/pDs9hzdfLNQ)
+* [extrude](https://youtu.be/pDs9hzdfLNQ)
 
-*[extuding a star](https://youtu.be/E4ciP3YVTCI)
+* [extuding a star](https://youtu.be/E4ciP3YVTCI)
 
-*[loft](https://youtu.be/8yanz3B1m-w)
+* [loft](https://youtu.be/8yanz3B1m-w)
 
-*[revolve](https://youtu.be/VNdyH41Y81w)
+* [revolve](https://youtu.be/VNdyH41Y81w)
 
-*[sweep](https://youtu.be/tKuXQLX75fw)
+* [sweep](https://youtu.be/tKuXQLX75fw)
 
-*[Sketching 2and3](https://youtu.be/ST2Suugn7C0)</t>
+* [Sketching 2and3](https://youtu.be/ST2Suugn7C0)</t>
 <t tx="leo.20181027202316.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -382,13 +382,13 @@ make.start()
 <t tx="leo.20181027202316.5">## exercise
 
 
-*[exercise1](https://youtu.be/uv4DPmrkzDU)
+* [exercise1](https://youtu.be/uv4DPmrkzDU)
 
-*[exercise2](https://youtu.be/i3vF3OPjlu0)
+* [exercise2](https://youtu.be/i3vF3OPjlu0)
 
-*[exercise3](https://youtu.be/IEu-syYBDGM)
+* [exercise3](https://youtu.be/IEu-syYBDGM)
 
-*[exercise4](https://youtu.be/ZOrvNipPNGY)
+* [exercise4](https://youtu.be/ZOrvNipPNGY)
 
 </t>
 <t tx="leo.20181027202316.6">&lt;section data-markdown&gt;
@@ -402,7 +402,7 @@ make.start()
 </t>
 <t tx="leo.20181027202316.7">## homework
 
-&lt;iframe src="https://www.youtube.com/watch?v=9S8jDr5ADGE&amp;feature=youtu.be" 
+&lt;iframe src="https://youtu.be/9S8jDr5ADGE" 
 width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 </tnodes>
