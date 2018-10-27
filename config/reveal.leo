@@ -38,7 +38,7 @@
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -357,12 +357,18 @@ make.start()
 
 ## 基本特徵
 
-&lt;/small&gt; [extrude](https://youtu.be/pDs9hzdfLNQ)
-&lt;/small&gt; [extuding a star](https://youtu.be/E4ciP3YVTCI)
-&lt;/small&gt; [loft](https://youtu.be/8yanz3B1m-w)
-&lt;/small&gt; [revolve](https://youtu.be/VNdyH41Y81w)
-&lt;/small&gt; [sweep](https://youtu.be/tKuXQLX75fw)
-&lt;/small&gt; [Sketching 2and3](https://youtu.be/ST2Suugn7C0)</t>
+&lt;/small&gt; 
+[extrude](https://youtu.be/pDs9hzdfLNQ)
+&lt;/small&gt; 
+[extuding a star](https://youtu.be/E4ciP3YVTCI)
+&lt;/small&gt; 
+[loft](https://youtu.be/8yanz3B1m-w)
+&lt;/small&gt; 
+[revolve](https://youtu.be/VNdyH41Y81w)
+&lt;/small&gt; 
+[sweep](https://youtu.be/tKuXQLX75fw)
+&lt;/small&gt; 
+[Sketching 2and3](https://youtu.be/ST2Suugn7C0)</t>
 <t tx="leo.20181027202316.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -376,10 +382,14 @@ make.start()
 </t>
 <t tx="leo.20181027202316.5">## exercise
 
-&lt;/small&gt; [exercise1](https://youtu.be/uv4DPmrkzDU)
-&lt;/small&gt; [exercise2](https://youtu.be/i3vF3OPjlu0)
-&lt;/small&gt; [exercise3](https://youtu.be/IEu-syYBDGM)
-&lt;/small&gt; [exercise4](https://youtu.be/ZOrvNipPNGY)
+&lt;/small&gt; 
+[exercise1](https://youtu.be/uv4DPmrkzDU)
+&lt;/small&gt; 
+[exercise2](https://youtu.be/i3vF3OPjlu0)
+&lt;/small&gt; 
+[exercise3](https://youtu.be/IEu-syYBDGM)
+&lt;/small&gt; 
+[exercise4](https://youtu.be/ZOrvNipPNGY)
 
 </t>
 <t tx="leo.20181027202316.6">&lt;section data-markdown&gt;
@@ -393,6 +403,8 @@ make.start()
 </t>
 <t tx="leo.20181027202316.7">## homework
 
-&lt;iframe src="https://youtu.be/9S8jDr5ADGE" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe src="https://youtu.be/9S8jDr5ADGE" 
+width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 </tnodes>
 </leo_file>
