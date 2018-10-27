@@ -24,7 +24,7 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181027202316.1" a="E"><vh>week1操作影片</vh>
+<v t="leo.20181027202316.1"><vh>week1操作影片</vh>
 <v t="leo.20181027202316.2" a="E"><vh>特徵</vh>
 <v t="leo.20181027202316.3"><vh>video</vh></v>
 </v>
@@ -33,6 +33,14 @@
 </v>
 <v t="leo.20181027202316.6" a="E"><vh>homework</vh>
 <v t="leo.20181027202316.7"><vh>video</vh></v>
+</v>
+</v>
+<v t="leo.20181027221736.1" a="E"><vh>week2操作影片</vh>
+<v t="leo.20181027221736.4" a="E"><vh>exercise</vh>
+<v t="leo.20181027221736.5"><vh>video</vh></v>
+</v>
+<v t="leo.20181027221736.6" a="E"><vh>homework</vh>
+<v t="leo.20181027221736.7"><vh>video</vh></v>
 </v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
@@ -403,6 +411,46 @@ make.start()
 <t tx="leo.20181027202316.7">## homework
 
 &lt;iframe src="https://youtu.be/9S8jDr5ADGE" 
+width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20181027221736.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181027221736.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181027221736.5"># week2操作影片
+
+## exercise
+
+&lt;iframe src="https://youtu.be/Hspm2FRoGXU" 
+width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+</t>
+<t tx="leo.20181027221736.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181027221736.7">## homework
+
+&lt;iframe src="https://youtu.be/3Ywk_9zHU5k" 
 width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 </tnodes>
