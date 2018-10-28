@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 40623117 網誌 - Mis</title><link href="https://mdecadp2018.github.io/site-40623117/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623117/blog/feeds/mis.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623117/blog/</id><updated>2018-09-21T11:00:00+08:00</updated><entry><title>2018 電腦輔助設計實習</title><link href="https://mdecadp2018.github.io/site-40623117/blog/2018-Blog2.html" rel="alternate"></link><published>2018-09-21T11:00:00+08:00</published><updated>2018-09-21T11:00:00+08:00</updated><author><name>40623117</name></author><id>tag:mdecadp2018.github.io,2018-09-21:/site-40623117/blog/2018-Blog2.html</id><summary type="html">&lt;p&gt;wee2上課內容&lt;/p&gt;
-&lt;p&gt;課程目標:介紹分支
+&lt;p&gt;課程目標:介紹分支.將投影片及網誌管理好
 </summary><content type="html">&lt;p&gt;wee2上課內容&lt;/p&gt;
-&lt;p&gt;課程目標:介紹分支
+&lt;p&gt;課程目標:介紹分支.將投影片及網誌管理好
 &lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;上課重點&lt;/h2&gt;</content><category term="git指令"></category></entry><entry><title>2018 電腦輔助設計實習</title><link href="https://mdecadp2018.github.io/site-40623117/blog/2018-Blog1.html" rel="alternate"></link><published>2018-09-14T11:00:00+08:00</published><updated>2018-09-14T11:00:00+08:00</updated><author><name>40623117</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623117/blog/2018-Blog1.html</id><summary type="html">&lt;p&gt;week1上課內容&lt;/p&gt;
+&lt;h2&gt;上課重點&lt;/h2&gt;
+&lt;p&gt;學會使用ShareX錄影及取圖&lt;/p&gt;
+&lt;p&gt;尚未辦onshape帳號的同學要快點辦&lt;/p&gt;
+&lt;p&gt;使用來編輯投影片&lt;/p&gt;
+&lt;h2&gt;上課影片&lt;/h2&gt;
+&lt;p&gt;國立虎尾科技大學機械設計工程系電腦輔助設計實習 - 2b-week2 說明如何以 ShareX 取圖, 如何管理 CMSimfly 作業倉儲
+國立虎尾科技大學機械設計工程系電腦輔助設計實習 - 2a-week2 說明如何管理網際投影片與網誌&lt;/p&gt;</content><category term="git指令 Leo ShareX onshape"></category></entry><entry><title>2018 電腦輔助設計實習</title><link href="https://mdecadp2018.github.io/site-40623117/blog/2018-Blog1.html" rel="alternate"></link><published>2018-09-14T11:00:00+08:00</published><updated>2018-09-14T11:00:00+08:00</updated><author><name>40623117</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623117/blog/2018-Blog1.html</id><summary type="html">&lt;p&gt;week1上課內容&lt;/p&gt;
 &lt;p&gt;課程目標:領取個人作業.辦onshape學生帳號&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;week1上課內容&lt;/p&gt;
 &lt;p&gt;課程目標:領取個人作業.辦onshape學生帳號&lt;/p&gt;
@@ -22,4 +27,4 @@
 &lt;p&gt;相關資料:https://en.wikipedia.org/wiki/Onshape&lt;/p&gt;
 &lt;h2&gt;上課影片&lt;/h2&gt;
 &lt;p&gt;國立虎尾科技大學機械設計工程系電腦輔助設計實習 - 說明如何管理期中作業倉儲中的網際投影片 
-國立虎尾科技大學機械設計工程系電腦輔助設計實習 - 說明如何管理個人的期中作業網站內容 &lt;/p&gt;</content><category term="onshape"></category></entry></feed>
+國立虎尾科技大學機械設計工程系電腦輔助設計實習 - 說明如何管理個人的期中作業網站內容 &lt;/p&gt;</content><category term="git指令 onshape"></category></entry></feed>
