@@ -24,7 +24,7 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181027202316.1"><vh>week1操作影片</vh>
+<v t="leo.20181027202316.1" a="E"><vh>week1操作影片</vh>
 <v t="leo.20181027202316.2" a="E"><vh>特徵</vh>
 <v t="leo.20181027202316.3"><vh>video</vh></v>
 </v>
@@ -375,7 +375,9 @@ make.start()
 
 * [sweep](https://youtu.be/tKuXQLX75fw)
 
-* [Sketching 2and3](https://youtu.be/ST2Suugn7C0)</t>
+* [Sketching 2and3](https://youtu.be/ST2Suugn7C0)
+
+</t>
 <t tx="leo.20181027202316.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -410,8 +412,7 @@ make.start()
 </t>
 <t tx="leo.20181027202316.7">## homework
 
-&lt;iframe src="https://youtu.be/9S8jDr5ADGE" 
-width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/9S8jDr5ADGE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20181027221736.1">&lt;section&gt;
 @others
@@ -433,9 +434,7 @@ width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscree
 
 ## exercise
 
-&lt;iframe src="https://youtu.be/Hspm2FRoGXU" 
-width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Hspm2FRoGXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 </t>
@@ -450,8 +449,7 @@ width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscree
 </t>
 <t tx="leo.20181027221736.7">## homework
 
-&lt;iframe src="https://youtu.be/3Ywk_9zHU5k" 
-width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/3Ywk_9zHU5k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 </tnodes>
 </leo_file>
