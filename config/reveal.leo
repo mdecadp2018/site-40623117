@@ -25,7 +25,7 @@
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20181027202316.1" a="E"><vh>onshape操作影片</vh>
-<v t="leo.20181027202316.2"><vh>特徵</vh>
+<v t="leo.20181027202316.2" a="E"><vh>特徵</vh>
 <v t="leo.20181027202316.3"><vh>video</vh></v>
 </v>
 <v t="leo.20181027202316.4"><vh>exercise</vh>
@@ -366,7 +366,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181027202316.3"># week1操作影片
+<t tx="leo.20181027202316.3">## onshape操作影片
 
 ## 基本特徵
 
@@ -460,7 +460,9 @@ make.start()
 </t>
 <t tx="leo.20181109005212.2">## homework4
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/dyVqdKHAZVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/dyVqdKHAZVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181109005219.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
