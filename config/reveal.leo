@@ -24,23 +24,27 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181027202316.1" a="E"><vh>week1操作影片</vh>
-<v t="leo.20181027202316.2" a="E"><vh>特徵</vh>
+<v t="leo.20181027202316.1" a="E"><vh>onshape操作影片</vh>
+<v t="leo.20181027202316.2"><vh>特徵</vh>
 <v t="leo.20181027202316.3"><vh>video</vh></v>
 </v>
-<v t="leo.20181027202316.4" a="E"><vh>exercise</vh>
+<v t="leo.20181027202316.4"><vh>exercise</vh>
 <v t="leo.20181027202316.5"><vh>video</vh></v>
 </v>
-<v t="leo.20181027202316.6" a="E"><vh>homework</vh>
+<v t="leo.20181027202316.6" a="E"><vh>homework1</vh>
 <v t="leo.20181027202316.7"><vh>video</vh></v>
 </v>
+<v t="leo.20181109005013.1" a="E"><vh>homework2</vh>
+<v t="leo.20181109005013.2"><vh>video</vh></v>
 </v>
-<v t="leo.20181027221736.1" a="E"><vh>week2操作影片</vh>
-<v t="leo.20181027221736.4" a="E"><vh>exercise</vh>
-<v t="leo.20181027221736.5"><vh>video</vh></v>
+<v t="leo.20181109005111.1" a="E"><vh>homework3</vh>
+<v t="leo.20181109005111.2"><vh>video</vh></v>
 </v>
-<v t="leo.20181027221736.6" a="E"><vh>homework</vh>
-<v t="leo.20181027221736.7"><vh>video</vh></v>
+<v t="leo.20181109005212.1" a="E"><vh>homework4</vh>
+<v t="leo.20181109005212.2"><vh>video</vh></v>
+</v>
+<v t="leo.20181109005219.1" a="E"><vh>homework5</vh>
+<v t="leo.20181109005219.2"><vh>video</vh></v>
 </v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
@@ -143,9 +147,10 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+<t tx="leo.20180827201621.10">## 電腦輔助設計實習 
 
-### 虎科大機械設計工程系
+
+### 40623117楊智傑
 
 &lt;small&gt;
 Created by [KMOLab](http://lab.kmol.info/)
@@ -410,16 +415,11 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181027202316.7">## homework
+<t tx="leo.20181027202316.7">## homework1
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/9S8jDr5ADGE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
-<t tx="leo.20181027221736.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181027221736.4">&lt;section data-markdown&gt;
+<t tx="leo.20181109005013.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -430,15 +430,13 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181027221736.5"># week2操作影片
-
-## exercise
+<t tx="leo.20181109005013.2">## homework2
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Hspm2FRoGXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 </t>
-<t tx="leo.20181027221736.6">&lt;section data-markdown&gt;
+<t tx="leo.20181109005111.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -447,9 +445,34 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181027221736.7">## homework
+<t tx="leo.20181109005111.2">## homework3
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/3Ywk_9zHU5k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20181109005212.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109005212.2">## homework4
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/dyVqdKHAZVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181109005219.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109005219.2">## homework5
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/xKRfX2ku-xw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 </tnodes>
 </leo_file>
